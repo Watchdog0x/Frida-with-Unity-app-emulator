@@ -22,3 +22,16 @@ https://github.com/newbit1/rootAVD/archive/refs/heads/master.zip
 ```bash 
 .\rootAVD.bat %LOCALAPPDATA%\Android\Sdk\system-images\android-30\google_apis_playstore\x86\ramdisk.img
 ```
+
+## Install MagiskFrida
+3 ) Download magisk-frida https://github.com/ViRb3/magisk-frida/releases \
+on emulator and run it Magisk Modules 
+
+ 
+
+## Frida NativeBridge
+4 )
+
+```bash 
+frida -Uf learn.frida.unity --realm=emulated --no-pause
+```
