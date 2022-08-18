@@ -35,8 +35,19 @@ And it will look like this when it done
  
 
 ## Frida NativeBridge
-4 )
+
 
 ```bash 
 frida -Uf learn.frida.unity --realm=emulated --no-pause
 ```
+
+
+### Now you can find the libil2cpp.so addresses 
+
+You can test it with 
+```bash
+Module.findBaseAddress("libil2cpp.so")
+```
+
+<img src="https://user-images.githubusercontent.com/84445039/185480281-6b00a8ab-f7d3-47b1-a9a1-aa4d9cb2c286.PNG" width="50%" height="50%"/>
+
