@@ -6,6 +6,8 @@
 <img src="https://user-images.githubusercontent.com/84445039/185476789-8081de76-2ffb-4763-b456-18a0f3677685.PNG" width="50%" height="50%"/>
 <img src="https://user-images.githubusercontent.com/84445039/185476818-99d724e3-704a-4d3a-9279-2654ad1f5403.jpg" width="50%" height="50%"/>
 
+Now run it when it booted go to step 2 
+
 ## Install Magisk on emulator
 2 ) Download https://github.com/newbit1/rootAVD 
 
