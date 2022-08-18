@@ -9,7 +9,8 @@
 Now run it. When it booted go to step 2 
 
 ## Install Magisk on emulator
-2 ) Download https://github.com/newbit1/rootAVD 
+2 ) Download rootAVD 
+https://github.com/newbit1/rootAVD/archive/refs/heads/master.zip
 
 
 <img src="https://github.com/newbit1/video-files/blob/master/rootAVD_Windows.gif" width="50%" height="50%"/>
