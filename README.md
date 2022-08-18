@@ -7,3 +7,7 @@
 
 
 <img src="https://github.com/newbit1/video-files/blob/master/rootAVD_Windows.gif" width="50%" height="50%"/>
+
+```bash 
+.\rootAVD.bat ListAllAVDs
+```
