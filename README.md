@@ -11,3 +11,7 @@
 ```bash 
 .\rootAVD.bat ListAllAVDs
 ```
+
+```bash 
+.\rootAVD.bat %LOCALAPPDATA%\Android\Sdk\system-images\android-30\google_apis_playstore\x86\ramdisk.img
+```
