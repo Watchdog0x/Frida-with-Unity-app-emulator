@@ -25,7 +25,10 @@ https://github.com/newbit1/rootAVD/archive/refs/heads/master.zip
 
 ## Install MagiskFrida
 3 ) Download magisk-frida https://github.com/ViRb3/magisk-frida/releases \
-on emulator and install it with Magisk Modules 
+on emulator and install it with Magisk Modules  \
+\
+And it will look like this when it done
+
 
 <img src="https://user-images.githubusercontent.com/84445039/185479184-aa9746e0-346c-4913-8b5a-79a0683d7571.PNG" width="50%" height="50%"/>
 
